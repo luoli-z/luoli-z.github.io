@@ -16,9 +16,10 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Our invention patent, **"A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion"**, was granted by CNIPA.
+
 - *2026.04*: &nbsp;🎉 One paper, **RAMTA: Retrieval-Augmented Multi-Tool Agentic Reasoning for Zero-shot Harmful Meme Detection**, was accepted by **ICCBR 2026 (CCF-B)**.
 - *2026.04*: &nbsp;🎉 Our two papers, **CAVAR: Conflict-Aware Candidate Value Auditing and Resolution for Post-Retrieval Question Answering** and **Enhancing Document Layout Analysis through Frequency Decomposition Convolution and Multi-scale Adaptive Linear Attention**, were accepted by **ICIC 2026 (CCF-C)**.
+- *2026.04*: &nbsp;🎉 Our invention patent, **"A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion"**, was granted by CNIPA.
 
 # 📝 Publications 
 
@@ -41,7 +42,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 - *2025.06*: Won the **National Third Prize** in the Python Group of the **Lanqiao Cup National Software and Information Technology Competition**.
 - *2024.12*: Awarded the **National Scholarship** for the 2023–2024 academic year.
 - 
-# 📖 Education
+# 📖 Educations
 
 - *2023.09 - Present*, B.Eng. Student, College of Computer Science and Software Engineering, Hohai University, Nanjing, China.
 
