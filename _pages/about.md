@@ -41,7 +41,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 - *2026.03*: Granted an invention patent: **A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion**.
 - *2025.06*: Won the **National Third Prize** in the Python Group of the **Lanqiao Cup National Software and Information Technology Competition**.
 - *2024.12*: Awarded the **National Scholarship** for the 2023–2024 academic year.
-- 
+
 # 📖 Educations
 
 - *2023.09 - Present*, B.Eng. Student, College of Computer Science and Software Engineering, Hohai University, Nanjing, China.
