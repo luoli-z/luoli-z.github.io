@@ -17,7 +17,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉 One paper, **Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Harmful Meme Detection**, was accepted by **ICCBR 2026 (CCF-B)**.
+- *2026.04*: &nbsp;🎉 One paper, **Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection**, was accepted by **ICCBR 2026 (CCF-B)**.
 - *2026.04*: &nbsp;🎉 Our two papers, **CAVAR: Conflict-Aware Candidate Value Auditing and Resolution for Post-Retrieval Question Answering** and **Enhancing Document Layout Analysis through Frequency Decomposition Convolution and Multi-scale Adaptive Linear Attention**, were accepted by **ICIC 2026 (CCF-C)**.
 - *2026.04*: &nbsp;🎉 Our invention patent, **"A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion"**, was granted by CNIPA.
 
@@ -26,7 +26,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCBR 2026</div><img src='images/ramta_500x300.png' alt="RAMTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Harmful Meme Detection](https://2026.iccbr.org/accepted-papers/)
+[Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection](https://2026.iccbr.org/accepted-papers/)
 
 **Jianyu Zhou**, Zhanyi Zhou
 
