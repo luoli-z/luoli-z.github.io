@@ -28,7 +28,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection
 
-[paper](https://link.springer.com/chapter/10.1007/978-3-032-33865-5_22) [code](https://github.com/luoli-z/cbr-for-meme)
+| [paper](https://link.springer.com/chapter/10.1007/978-3-032-33865-5_22) |   &emsp;   | [code](https://github.com/luoli-z/cbr-for-meme) | 
 
 **Jianyu Zhou**, Zhanyi Zhou
 
