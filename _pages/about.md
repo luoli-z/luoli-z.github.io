@@ -26,7 +26,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCBR 2026</div><img src='images/ramta_500x300.png' alt="RAMTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection](https://2026.iccbr.org/accepted-papers/)
+[Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection](https://link.springer.com/chapter/10.1007/978-3-032-33865-5_22)
 
 **Jianyu Zhou**, Zhanyi Zhou
 
