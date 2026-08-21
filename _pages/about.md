@@ -17,11 +17,27 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 # 🔥 News
 
+- *2026.08*: &nbsp;🎉 Our paper, **HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection**, was accepted by **EMNLP 2026 Findings**. [code](https://github.com/luoli-z/HarmEvoSkill)
 - *2026.04*: &nbsp;🎉 One paper, **Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection**, was accepted by **ICCBR 2026 (CCF-B)**.
 - *2026.04*: &nbsp;🎉 Our two papers, **CAVAR: Conflict-Aware Candidate Value Auditing and Resolution for Post-Retrieval Question Answering** and **Enhancing Document Layout Analysis through Frequency Decomposition Convolution and Multi-scale Adaptive Linear Attention**, were accepted by **ICIC 2026 (CCF-C)**. [paper1](https://link.springer.com/chapter/10.1007/978-981-92-3426-4_44) &emsp; [paper2](https://doi.org/10.1007/978-981-92-3420-2_45)
 - *2026.04*: &nbsp;🎉 Our invention patent, **"A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion"**, was granted by CNIPA.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/harmevoskill_500x300.png' alt="HarmEvoSkill" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection
+
+**Jianyu Zhou**, Weihai Lu
+
+- Proposed a label-free Skill-Memory self-evolution framework for multimodal harmful meme detection.
+- Designed complementary Case, Insight, and Risk Memory with executable skill induction and claim-evidence graph reasoning.
+- Demonstrated robust performance across multiple harmful meme benchmarks with memory evolution and cross-dataset skill transfer analysis.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCBR 2026</div><img src='images/ramta_500x300.png' alt="RAMTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
