@@ -17,7 +17,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 # 🔥 News
 
-- *2026.08*: &nbsp;🎉 Our paper, **HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection**, was accepted by **EMNLP 2026 Findings**. [code](https://github.com/luoli-z/HarmEvoSkill)
+- *2026.08*: &nbsp;🎉 Our paper, **HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection**, was accepted by **EMNLP 2026 Findings**.
 - *2026.04*: &nbsp;🎉 One paper, **Retrieving Precedents, Adapting Tool Plans, and Revising Judgments: Case-Based Reasoning for Zero-shot Multimodal Harmful Content Detection**, was accepted by **ICCBR 2026 (CCF-B)**.
 - *2026.04*: &nbsp;🎉 Our two papers, **CAVAR: Conflict-Aware Candidate Value Auditing and Resolution for Post-Retrieval Question Answering** and **Enhancing Document Layout Analysis through Frequency Decomposition Convolution and Multi-scale Adaptive Linear Attention**, were accepted by **ICIC 2026 (CCF-C)**. [paper1](https://link.springer.com/chapter/10.1007/978-981-92-3426-4_44) &emsp; [paper2](https://doi.org/10.1007/978-981-92-3420-2_45)
 - *2026.04*: &nbsp;🎉 Our invention patent, **"A Pedestrian Intention Recognition Method and System Based on Hierarchical Spatio-Temporal Causal Graph and State Diffusion"**, was granted by CNIPA.
@@ -28,6 +28,8 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 <div class='paper-box-text' markdown="1">
 
 HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection
+
+[code](https://github.com/luoli-z/HarmEvoSkill)
 
 **Jianyu Zhou**, Weihai Lu
 
