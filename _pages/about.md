@@ -29,7 +29,7 @@ I am Jianyu Zhou, an undergraduate student at the College of Computer Science an
 
 HarmEvoSkill: Skill-Memory Self-Evolution for Zero-shot Multimodal Harmful Meme Detection
 
-[code](https://github.com/luoli-z/HarmEvoSkill)
+[paper](https://aclanthology.org/2026.findings-emnlp.195/)   &emsp; [code](https://github.com/luoli-z/HarmEvoSkill)
 
 **Jianyu Zhou**, Weihai Lu
 
